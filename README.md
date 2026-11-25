@@ -1,1 +1,1 @@
-# yandex-afisha-sql
+# yandex-afisha
